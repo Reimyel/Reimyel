@@ -1,4 +1,4 @@
-## Eai!!! Meu nome é Caique GS, e sou um desenvolvedor de jogos 🎮
+## Eai!!! Meu nome é Caique GS, e sou um designer de jogos 🎮
 <!--
 **Reimyel/Reimyel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
